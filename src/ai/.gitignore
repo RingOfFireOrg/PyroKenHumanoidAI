@@ -1,0 +1,11 @@
+.vagrant
+Vagrantfile
+ros_local.cfg
+runs.out
+*.txt
+*.pyc
+junk*
+*.p
+*.tp
+*~
+sandbox/chatbot_ros_node/pyaiml

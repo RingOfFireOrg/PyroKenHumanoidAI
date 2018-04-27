@@ -1,0 +1,8 @@
+import time
+
+birth = 1314000 * 45 * 24
+
+print birth
+
+current_time = time.time()
+print "Seconds: ", current_time
